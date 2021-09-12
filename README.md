@@ -12,7 +12,7 @@ SOC_tasks.do: Appends SOC classifications to teh APS data set
 
 XXX_counterfactual: The do files constructing the counterfactuals in the project (note nmw_counterfactual2 is obselete)
 
-public_private_wage: decomposes the APS SOC 1 digit occupations into public and private sector componenents
+public_private_wage: decomposes the APS SOC 1 digit occupations into public and private sector componenents (note pubic_sector_regression is also now obselete)
 
 TBTC: the model of task biased technological change that I present in the paper
 
